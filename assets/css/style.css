@@ -19,6 +19,10 @@
   color: #ffffff;
 }
 
+.title-main {
+    text-align: center;
+}
+
 #about-section {
   text-align: center;
   display: block;
@@ -54,3 +58,6 @@ mark {
   transform: translateX(-50%) translateY(100%);
 }
 
+.button-social {
+    margin: 5px; 
+}
